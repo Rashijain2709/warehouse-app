@@ -44,9 +44,9 @@ warehouse-app/
 * Logs missing/unmapped SKUs
 * Supports multiple input formats (Flipkart, Amazon, etc.)
 
-### Part 2: Relational Dashboard
+### Part 2: Relational Database
 
-* Built using Teable.io / Baserow\.io
+* Built using Teable.io
 * Allows users to:
 
   * Track Orders, Returns, Products
@@ -104,7 +104,6 @@ Open `frontend/index.html` in browser.
 ## AI Tools Used
 
 * ChatGPT (OpenAI): Assisted in generating the Python GUI, data processing logic, and debugging suggestions.
-* Luminal AI: Used for demonstrating text-to-SQL queries and visualizing data insights through charts.
 
 ---
 
