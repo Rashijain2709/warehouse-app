@@ -1,0 +1,4 @@
+order_id,product_id,quantity,sale_date,marketplace
+1001,1,2,2025-07-10,Meesho
+1002,2,1,2025-07-10,Amazon
+1003,1,1,2025-07-11,Flipkart

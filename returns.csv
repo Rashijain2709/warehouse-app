@@ -1,0 +1,4 @@
+return_id,product_id,reason,return_date,source
+5001,1,Defective,2025-07-11,Meesho
+5002,2,Wrong Size,2025-07-12,Amazon
+
