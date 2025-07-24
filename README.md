@@ -72,7 +72,7 @@ warehouse-app/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourname/wms-project.git
+git clone https://github.com/Rashijain2709/warehouse-app.git
 
 cd wms-project
 ```
