@@ -74,7 +74,7 @@ warehouse-app/
 ```bash
 git clone https://github.com/Rashijain2709/warehouse-app.git
 
-cd wms-project
+cd warehouse-app
 ```
 
 ### 2. Backend Setup (Python)
